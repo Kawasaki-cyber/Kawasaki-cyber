@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Kawasaki-cyber
 - 👀 I’m interested in web devellopement and cybersecurity 
-- 🌱 I’m currently learning CSS and HTML
 - 💞️ I’m looking to collaborate on some project im open to any opportunity
 - 📫 How to reach me by sending me a message 
 - 😄 Pronouns:male
